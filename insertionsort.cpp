@@ -20,7 +20,5 @@ int main(){
 
     
     }
-    for(auto element: arr){
-        cout<<arr[element]<<" ";
+     
 
-}
